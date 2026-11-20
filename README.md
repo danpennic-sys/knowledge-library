@@ -20,6 +20,4 @@ Put it on screen. Show the distinction. Do not claim the system is built.
 
 ---
 
-See `Knowledge_Library_Standard.pptx` for the on-screen presentation of the standard.
-
-Independent home for the Knowledge Library. Separate from Operator Pages core and QuantumGuard. No implementation started.
+Independent home for the Knowledge Library. Separate from Operator Pages core and QuantumGuard. Locked baseline: open contribution, visible status, verification requires recorded substance. Append-only history is policy only. No implementation started.
